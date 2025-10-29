@@ -1,0 +1,4 @@
+Original Data : 
+23 678 56 908 234 
+Sorted Data : 
+23 56 234 678 908 

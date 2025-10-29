@@ -1,0 +1,13 @@
+Create a class Student with attributes name, rollNumber, and marks. Write methods to input data, display data, and calculate the average of marks.
+
+Design a BankAccount class with attributes accountNumber, accountHolderName, and balance. Add methods to deposit(), withdraw(), and displayBalance().
+
+Implement a Rectangle class with attributes length and breadth. Include methods to calculate area() and perimeter(). Write a program to create multiple rectangle objects and find the largest area.
+
+Create a Library class with attributes bookList and libraryName. Add methods to addBook(), issueBook(), and returnBook(). Demonstrate by creating a sample library.
+
+Write a program to create a Vehicle class with attributes make, model, and year. Derive a Car class from it and add an attribute fuelType. Implement methods to display vehicle details.
+
+Design a class Employee with attributes id, name, designation, and salary. Write methods to calculate yearly salary and display employee details.
+
+Create a class Shape with a method area() (returning 0 by default). Derive classes Circle and Square from it, overriding the area() method to calculate specific areas. Demonstrate polymorphism.
